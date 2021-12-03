@@ -1,6 +1,6 @@
 {
   "name": "gelato-message-ui",
-  "version": "0.0.3-0",
+  "version": "0.0.3",
   "description": "This is a vanilla npm package that allows you to display messages inside your ui efficiently, with less effort and in a non disruptive way.",
   "main": "src/index.ts",
   "scripts": {
