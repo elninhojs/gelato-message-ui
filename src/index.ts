@@ -1,3 +1,4 @@
+import { GelatoMessageConfig, Severity } from "./types";
 
 export const getVersion = ():string => {
     return 'beta';
